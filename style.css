@@ -1,0 +1,27 @@
+.container{
+  margin-left: 40%;
+  margin-top: 10%;
+  background-color: black;
+ 
+}
+
+#h{
+  margin-left: 40%;
+  color: rgb(212, 214, 74);
+}
+.container .calculator .buttons .btn {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 19.5px;
+  
+}
+body{
+  background-color: black;
+}
+#result{
+  color: azure;
+}
+*{
+  background-color: black;
+}
+
